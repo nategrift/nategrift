@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as **Full Stack Software Engineer at Modumate**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **anything computer related** as I love to learn or discuss something new
-- 🌐 My profolio: [nategrift.com](https::/www.nategrift.com)
+- 🌐 My portfolio: [nategrift.com](https::/www.nategrift.com)
 - 📫 How to reach me: Contact me by email nathangrift+gh@gmail.com or on LinkedIn
 
 <h3>Contact Me</h3>
