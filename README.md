@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently working as fullstack developer at [**FinChat.io**](https://www.finchat.io)
+- 🔭 I’m currently working as fullstack developer at [**Fiscal.ai**](https://www.fiscal.ai)
 - 👯 I’m looking to collaborate on more **Open Source Projects**
 - 💬 Ask me about **anything computer related** as I love to learn or discuss something new
 - 🌐 My portfolio: [nategrift.com](https://www.nategrift.com)
